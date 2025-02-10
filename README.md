@@ -1,6 +1,6 @@
 # PyGit
 
-I made my own version of Git using Python as a way to learn file management (`os`, `sys`), hashing, and connecting URLs in Python. I also developed a deeper understanding of version history management with Git (hashing, compressing, etc.).
+I made my own version of Git using Python as a way to learn about terminal and file management in python (`os`, `sys`), hashing, and connecting URLs in Python. I also developed a deeper understanding of version history management with Git (hashing, compressing, etc.).
 
 ## How to Use
 
